@@ -58,7 +58,7 @@ The API will be available at `http://localhost:3000`.
 | Method | Endpoint         | Description          |
 |--------|----------------|----------------------|
 | **POST**   | `/api/addSchool` | Add a new school    |
-| **GET**    | `/api//api/listSchools?latitude=40.7128&longitude=-74.0060`   | Get all schools     |
+| **GET**    | `/api/listSchools?latitude=40.7128&longitude=-74.0060`   | Get all schools     |
 
 ## 🚀 Deployment
 ### Deploying on **Railway**
