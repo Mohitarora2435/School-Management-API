@@ -4,7 +4,7 @@
 The **School Management API** is a RESTful API built using **Node.js**, **Express.js**, and **MySQL**. It allows users to manage schools, including adding, updating, retrieving, and deleting school records.
 
 ## 🚀 Features
-- Create, Read, Update, and Delete (CRUD) operations for schools.
+- Create and Read operations for schools.
 - MySQL database integration.
 - Deployed using **Railway**.
 - API testing via **Postman**.
